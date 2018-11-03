@@ -32,3 +32,9 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+
+1. What are you going to build? NU-RD.  A website tool dedicated to assisting teaching professionals translating a numerical equation into a word equation. 
+
+2. Which APIs do you plan to use? FaunaDB
+
+3. What is your plan to execute this idea? We have a team of five individuals.  Currently we have broken out by skillset.  We have some front-end preferred folks (Markup and basic JS).  We have back-end preferred individuals (API calls).  
